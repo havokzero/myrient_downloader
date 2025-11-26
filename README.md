@@ -172,10 +172,10 @@ cp internal/ui/icon.png /usr/share/icons/hicolor/256x256/apps/myrient-downloader
 
 
 ### Filtering, Selection, and System Detection
-![Filtering and Selection](https://github.com/havokzero/myrient_downloader/blob/main/internal/docs/image1.png?raw=true)
+![Filtering and Selection](https://github.com/havokzero/myrient_downloader/blob/main/internal/docs/image2.png?raw=true)
 
 ### Bulk Download with Concurrency and Progress
-![Bulk Download](https://github.com/havokzero/myrient_downloader/blob/main/internal/docs/image2.png?raw=true)
+![Bulk Download](https://github.com/havokzero/myrient_downloader/blob/main/internal/docs/image3.png?raw=true)
 
 
 ---
