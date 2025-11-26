@@ -177,6 +177,8 @@ cp internal/ui/icon.png /usr/share/icons/hicolor/256x256/apps/myrient-downloader
 ### Bulk Download with Concurrency and Progress
 ![Bulk Download](https://github.com/havokzero/myrient_downloader/blob/main/internal/docs/image3.png?raw=true)
 
+### Program Icon
+![icon](https://raw.githubusercontent.com/havokzero/myrient_downloader/refs/heads/main/internal/ui/icon.png)
 
 ---
 
