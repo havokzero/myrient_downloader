@@ -169,6 +169,8 @@ cp internal/ui/icon.png /usr/share/icons/hicolor/256x256/apps/myrient-downloader
 
 ### Main Application Window
 ![Main UI](docs/image.png)
+![Main UI](https://raw.githubusercontent.com/havokzero/myrient_downloader/main/docs/image.png)
+
 
 ### Filtering, Selection, and System Detection
 ![Filtering and Selection](docs/image2.png)
